@@ -37,7 +37,7 @@
             "Related Specialties"
           ]
         },
-        "plugin": "categoryToSpecialty",
+        "plugin": "sandboxCategoryToSpecialty",
         "function": "sandboxCategoryToSpecialty"
       }
     }
